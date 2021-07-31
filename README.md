@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### HEY THERE!
-<img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="25px">
+<h2 align="center">
+    HEY THERE!
+    <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="28">
+</h2>
+
 <img src="https://gpvc.arturio.dev/rifaaath" alt="profile views">
  
 I'm Rifaath, an Undergrad AI & Machine Learning Student at NMAM Institute of Technology, Nitte 🎓
@@ -30,8 +33,11 @@ I currently work on projects using:
 <br>
 <br>
 
+## My GitHub Statistics 📊
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rifaaath&theme=highcontrast"/>
+</div>
+
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=rifaaath&show_icons=true&theme=material-palenight" alt="rifaathameen" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaaath&layout=compact&theme=material-palenight" />
 </p>
