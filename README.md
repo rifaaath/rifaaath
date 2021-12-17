@@ -26,6 +26,7 @@ I'm Rifaath, an Undergrad AI & Machine Learning Student at NMAM Institute of Tec
 I currently work on projects using:
 * C++ 🚆
 * C 💻
+* Pyhton 🐍
 
 <br>
 <br>
