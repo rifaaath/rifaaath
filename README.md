@@ -34,11 +34,19 @@ I currently work on projects using:
 <br>
 <br>
 
-## My GitHub Statistics 📊
+## 📊 My GitHub Statistics
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rifaaath&theme=highcontrast"/>
 </div>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaaath&layout=compact&theme=material-palenight" />
-</p>
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div align="center">
+    <br/>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rifaaath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rifaaath&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rifaaath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaaath&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+    <br/>
+  </div>
+  <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
+</details>
