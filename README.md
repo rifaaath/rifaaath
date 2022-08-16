@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 <img src="https://gpvc.arturio.dev/rifaaath" alt="profile views">
  
 I'm Rifaath, an Undergrad AI & Machine Learning Student at NMAM Institute of Technology, Nitte 🎓
-<img align="right" alt="GIF" width="400" height="250" src="https://images.squarespace-cdn.com/content/v1/5e9e61184a2e5f4b613d5853/1589203333135-LLNIKB08AXJFYQ29N7SM/ke17ZwdGBToddI8pDm48kJuI8p5FQJ1Eq-llLbNfaL4UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcifh1MkPQjKnU_Rs9sxRN150Yr9pYbOEalzMkt27oSukz7aNRMMJoo3GiZBn07En7/AI.gif">
 
 I currently work on projects using:
-* C++ 🚆
-* C 💻
-* Pyhton 🐍
+* C++ 
+* C 
+* Pyhton 
 
 <br>
 <br>
