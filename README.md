@@ -25,7 +25,17 @@ I'm Rifaath, an Undergrad AI & Machine Learning Student at NMAM Institute of Tec
 I currently work on projects using:
 * C++ 
 * C 
-* Pyhton 
+* Python 
+
+I have built projects based on:
+* Machine Learning
+* Deep Learning
+* Natural Langauge Processing
+* Computer Vision
+* Big Data Analytics
+* Internet of Things
+* Pattern and Visual Recognition
+* Image and Video Processing 
 
 <br>
 <br>
